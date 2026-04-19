@@ -1,0 +1,48 @@
+{
+    "Title": "AI-Augmented QualityEngineer–Dự ÁnCapigo",
+    "Company": "",
+    "Locations": [
+        "-Hà Nội:33 - 35 Louis 5, KĐT Louis, Đường Tân Mai, Phường Hoàng Mai (quận Hoàng Mai cũ)"
+    ],
+    "WorkTime": "Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)",
+    "Responsibilities": [
+        "Về dự án Capigo:Tại Capigo, chúng tôi đang tái định hình quy trình phát triển phần mềm bằng việc tích hợp sâu rộng các Trợ lý Lập trình AI (như Claude, Gemini, Copilot, Cursor). Chúng tôi không còn phân tách rạch ròi hai vai trò QA (đảm bảo quy trình) và QC (kiểm soát lỗi cuối) thành các bộ phận độc lập. Thay vào đó, chúng tôi tìm kiếm những \"Kỹ sư Chất lượng Toàn trình\" (Full-cycle Quality Engineers) – những người sẽ trực tiếp sử dụng, điều phối và giám sát các AI agents để tối ưu hóa cả tốc độ lẫn chất lượng sản phẩm.",
+        "- Sử dụng các công cụ AI (như ChatGPT, Claude, Cursor) để tự động hóa việc viết các kịch bản kiểm thử phức tạp (sử dụng Playwright, Cypress hoặc Selenium). Bạn sẽ đóng vai trò cung cấp ngữ cảnh hệ thống một phần để tối ưu hóa đầu ra của AI thông qua kỹ thuật Prompt Engineering có cấu trúc.",
+        "- Quản lý và vận hành các nền tảng kiểm thử tự động",
+        "- Đóng vai trò là chốt chặn chất lượng. Bạn sẽ xác minh các đoạn mã và kịch bản do AI sinh ra bằng cách chạy các regression tests, phát hiện các lỗi logic ẩn, và thiết lập các checkpoints nhằm đảm bảo đầu ra của AI chính xác, an toàn và đáng tin cậy.",
+        "- Sử dụng AI để tự động tạo ra các bộ dữ liệu kiểm thử giả lập quy mô lớn. Tự tay thiết kế các bài kiểm thử cho các trường hợp biên (edge cases) và kiểm tra sự sai lệch của các tính năng phi xác định.",
+        "- Chịu trách nhiệm toàn trình về chất lượng của các tính năng trong từng vòng lặp (Sprint), kết nối chặt chẽ giữa yêu cầu nghiệp vụ, kiến trúc hệ thống cơ bản và kết quả kiểm thử cuối cùng."
+    ],
+    "Requirements": [
+        "- Có từ 3 đến 5 năm kinh nghiệm thực tiễn trong lĩnh vực kiểm thử phần mềm (QA/QC), với thế mạnh rõ rệt về Kiểm thử Tự động (Automation Testing).",
+        "- Nền tảng vững chắc về lập trình (đặc biệt là Python, JavaScript/TypeScript hoặc Java) và thành thạo các framework kiểm thử hiện đại như Playwright hoặc Cypress.",
+        "- Có kinh nghiệm thực tế trong việc sử dụng các mô hình ngôn ngữ lớn (LLMs) hoặc AI Coding Assistants (Copilot, Cursor) vào công việc hàng ngày. Có khả năng thiết kế câu lệnh (Prompt) tốt để hướng dẫn AI thực hiện các tác vụ kiểm thử.",
+        "- Hiểu biết về vòng đời phát triển phần mềm (SDLC), khả năng phân biệt và xử lý các vấn đề logic thông thường do ảo giác AI (hallucinations) tạo ra."
+    ],
+    "Benefits": [
+        "- Thu nhập: 25 – 30tr/tháng(có thể cao hơn theo năng lực)",
+        "- Thưởng Lễ, Tết, lương tháng 13 đầy đủ",
+        "- Được làm việc tại nhà 5 ngày/tháng",
+        "-  Cơ hội làm việc trực tiếp với các công nghệ Trí tuệ Nhân tạo tạo sinh tiên tiến nhất. Được đào tạo để nâng cấp từ tư duy kiểm thử truyền thống lên kiến trúc sư chất lượng AI.",
+        "- Văn hóa linh hoạt, đề cao sự tối ưu hóa năng suất thông qua công nghệ.",
+        "Phụ cấp: Ăn trưa",
+        "Thiết bị làm việc: Được cấp Máy tính",
+        "Quyền lợi: Bảo hiểm xã hội, Thưởng tháng 13, Du lịch hàng năm, Team building, Thưởng hiệu quả làm việc"
+    ],
+    "Tags": {
+        "Yêu cầu": [
+            "3 năm kinh nghiệm",
+            "Đại Học trở lên"
+        ],
+        "Quyền lợi": [
+            "Nghỉ thứ 7",
+            "Bảo hiểm xã hội",
+            "Thưởng tháng 13"
+        ],
+        "Chuyên môn": [
+            "QA Engineer",
+            "IT - Phần mềm"
+        ]
+    },
+    "FullText": "Mô tả công việc\nVề dự án Capigo:\nTại Capigo, chúng tôi đang tái định hình quy trình phát triển phần mềm bằng việc tích hợp sâu rộng các Trợ lý Lập trình AI (như Claude, Gemini, Copilot, Cursor). Chúng tôi không còn phân tách rạch ròi hai vai trò QA (đảm bảo quy trình) và QC (kiểm soát lỗi cuối) thành các bộ phận độc lập. Thay vào đó, chúng tôi tìm kiếm những \"Kỹ sư Chất lượng Toàn trình\" (Full-cycle Quality Engineers) – những người sẽ trực tiếp sử dụng, điều phối và giám sát các AI agents để tối ưu hóa cả tốc độ lẫn chất lượng sản phẩm.\n- Sử dụng các công cụ AI (như ChatGPT, Claude, Cursor) để tự động hóa việc viết các kịch bản kiểm thử phức tạp (sử dụng Playwright, Cypress hoặc Selenium). Bạn sẽ đóng vai trò cung cấp ngữ cảnh hệ thống một phần để tối ưu hóa đầu ra của AI thông qua kỹ thuật Prompt Engineering có cấu trúc.\n- Quản lý và vận hành các nền tảng kiểm thử tự động\n- Đóng vai trò là chốt chặn chất lượng. Bạn sẽ xác minh các đoạn mã và kịch bản do AI sinh ra bằng cách chạy các regression tests, phát hiện các lỗi logic ẩn, và thiết lập các checkpoints nhằm đảm bảo đầu ra của AI chính xác, an toàn và đáng tin cậy.\n- Sử dụng AI để tự động tạo ra các bộ dữ liệu kiểm thử giả lập quy mô lớn. Tự tay thiết kế các bài kiểm thử cho các trường hợp biên (edge cases) và kiểm tra sự sai lệch của các tính năng phi xác định.\n- Chịu trách nhiệm toàn trình về chất lượng của các tính năng trong từng vòng lặp (Sprint), kết nối chặt chẽ giữa yêu cầu nghiệp vụ, kiến trúc hệ thống cơ bản và kết quả kiểm thử cuối cùng.\nYêu cầu ứng viên\n- Có từ 3 đến 5 năm kinh nghiệm thực tiễn trong lĩnh vực kiểm thử phần mềm (QA/QC), với thế mạnh rõ rệt về Kiểm thử Tự động (Automation Testing).\n- Nền tảng vững chắc về lập trình (đặc biệt là Python, JavaScript/TypeScript hoặc Java) và thành thạo các framework kiểm thử hiện đại như Playwright hoặc Cypress.\n- Có kinh nghiệm thực tế trong việc sử dụng các mô hình ngôn ngữ lớn (LLMs) hoặc AI Coding Assistants (Copilot, Cursor) vào công việc hàng ngày. Có khả năng thiết kế câu lệnh (Prompt) tốt để hướng dẫn AI thực hiện các tác vụ kiểm thử.\n- Hiểu biết về vòng đời phát triển phần mềm (SDLC), khả năng phân biệt và xử lý các vấn đề logic thông thường do ảo giác AI (hallucinations) tạo ra.\nQuyền lợi\n- Thu nhập: 25 – 30tr/tháng\n(có thể cao hơn theo năng lực)\n- Thưởng Lễ, Tết, lương tháng 13 đầy đủ\n- Được làm việc tại nhà 5 ngày/tháng\n-  Cơ hội làm việc trực tiếp với các công nghệ Trí tuệ Nhân tạo tạo sinh tiên tiến nhất. Được đào tạo để nâng cấp từ tư duy kiểm thử truyền thống lên kiến trúc sư chất lượng AI.\n- Văn hóa linh hoạt, đề cao sự tối ưu hóa năng suất thông qua công nghệ.\nĐịa điểm làm việc\n(đã được cập nhật theo Danh mục Hành chính mới - thêm quận/huyện cũ tương ứng để dễ dàng tra cứu)\n-\nHà Nội:\n33 - 35 Louis 5, KĐT Louis, Đường Tân Mai, Phường Hoàng Mai (quận Hoàng Mai cũ)\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 09:00 đến 18:00)\nCách thức ứng tuyển\nỨng viên nộp hồ sơ trực tuyến bằng cách bấm\nỨng tuyển\nngay dưới đây."
+}

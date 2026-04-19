@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 transformers==4.37.2
 FlagEmbedding==1.2.10
 FlagEmbedding==1.2.10
+=======
+transformers==4.37.2
+FlagEmbedding==1.2.10
+FlagEmbedding==1.2.10
+>>>>>>> 2889c005460580cfc56524371d405006df9a3b8a
 Vao sau khi pull model tu hugging face them from typing import Optional vao dau file trainer.py
